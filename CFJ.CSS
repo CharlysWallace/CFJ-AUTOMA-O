@@ -1,0 +1,43 @@
+body{
+    color: goldenrod;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    padding: 5px;
+}
+a{
+    color:white;
+    text-decoration: none;
+    
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    border-width: 1px ;
+
+    
+   
+}
+.centro{
+    text-align: center;
+}
+h1{
+    color:white;
+}
+h3{
+    color: white;
+}
+h4{
+    color: blue;
+}
+.Bordas{
+    padding: 0px 55px;
+}
